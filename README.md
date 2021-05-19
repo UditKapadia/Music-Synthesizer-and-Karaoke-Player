@@ -7,3 +7,9 @@ ver- 1.0.1
 
 Developers:
 PMusk Technologies
+
+External Modules that you would require to install for running the Project:
+
+Numpy
+Scipy
+Matplotlib
